@@ -16,6 +16,8 @@ public class Exercicio2 {
 			System.out.print("Digite a senha: ");
 			senha = scanner.nextInt();
 		}
+		
+		scanner.close();
 
 	}
 
